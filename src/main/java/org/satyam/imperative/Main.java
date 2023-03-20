@@ -1,4 +1,4 @@
-package org.satyam;
+package org.satyam.imperative;
 
 import java.util.ArrayList;
 import java.util.List;
