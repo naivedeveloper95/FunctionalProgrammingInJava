@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="35d9bd3b-6657-4501-b420-32788020cc37" name="Changes" comment="Tested both Imperative and Declarative Approach">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/satyam/functionalInterface/_Function.java" afterDir="false" />
+    <list default="true" id="35d9bd3b-6657-4501-b420-32788020cc37" name="Changes" comment="Added Function and Bi-Function for simple calculations">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/satyam/functionalInterface/_Consumer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/satyam/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/satyam/imperative/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,12 +65,20 @@
       <option name="project" value="LOCAL" />
       <updated>1678818678475</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Added Function and Bi-Function for simple calculations">
+      <created>1679335038523</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1679335038523</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Tested both Imperative and Declarative Approach" />
-    <option name="LAST_COMMIT_MESSAGE" value="Tested both Imperative and Declarative Approach" />
+    <MESSAGE value="Added Function and Bi-Function for simple calculations" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Function and Bi-Function for simple calculations" />
   </component>
 </project>
